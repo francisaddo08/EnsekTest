@@ -1,0 +1,10 @@
+C:\Ensek\api\BillingEnsekTest\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Ensek\api\BillingEnsekTest\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Ensek\api\BillingEnsekTest\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.csproj.AssemblyReference.cache
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Ensek\api\BillingEnsekTest\Domain\obj\Debug\netstandard2.0\Domain.pdb

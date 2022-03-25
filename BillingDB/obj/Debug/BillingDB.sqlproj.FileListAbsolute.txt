@@ -1,0 +1,10 @@
+C:\Ensek\api\BillingEnsekTest\BillingDB\bin\Debug\BillingDB.dacpac
+C:\Ensek\api\BillingEnsekTest\BillingDB\bin\Debug\BillingDB.dll
+C:\Ensek\api\BillingEnsekTest\BillingDB\bin\Debug\BillingDB.pdb
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\BillingDB.sqlproj.AssemblyReference.cache
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\BillingDB.dll
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\BillingDB.pdb
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\Model.xml
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\refactor.xml
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\postdeploy.sql
+C:\Ensek\api\BillingEnsekTest\BillingDB\obj\Debug\predeploy.sql

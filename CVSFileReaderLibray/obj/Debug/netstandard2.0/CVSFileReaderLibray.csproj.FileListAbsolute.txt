@@ -1,0 +1,13 @@
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\bin\Debug\netstandard2.0\CVSFileReaderLibray.deps.json
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\bin\Debug\netstandard2.0\CVSFileReaderLibray.dll
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\bin\Debug\netstandard2.0\CVSFileReaderLibray.pdb
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\bin\Debug\netstandard2.0\Domain.dll
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\bin\Debug\netstandard2.0\Domain.pdb
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.csproj.AssemblyReference.cache
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.AssemblyInfoInputs.cache
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.AssemblyInfo.cs
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.csproj.CoreCompileInputs.cache
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.csproj.CopyComplete
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.dll
+C:\Ensek\api\BillingEnsekTest\CVSFileReaderLibray\obj\Debug\netstandard2.0\CVSFileReaderLibray.pdb

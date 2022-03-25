@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAruuxgO3123qHx7sck8Bn3ZaSLnVrb6ESIyn1/pzGmYy4EQLBJ/e7bRJ6Ro0amGcpaWcRHnxcmY85xB9rro8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Ensek\\api\\BillingEnsekTest\\cvsFileReadyLibray\\CVSFileReadyLibray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Francis T Addo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Francis T Addo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
