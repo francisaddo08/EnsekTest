@@ -11,6 +11,7 @@ namespace Domain.entities
         public int ID { get; set; }
         public int AccountId { get; set; }
         public string MeterReadingDateTime { get; set; }
+        public DateTime CreatedOnDate { get; set; }
         public String MeterReadValue { get; set; }
        
     }

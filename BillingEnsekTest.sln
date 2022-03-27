@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CVSFileReaderLibray", "CVSF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEndApiEF", "BackEndApiEF\BackEndApiEF.csproj", "{5DEC6EF5-CF12-4021-9D77-6F35D4F08466}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billing.Test", "Billing.Test\Billing.Test.csproj", "{EB7B7445-9E2A-4036-A3D1-F103C8E3D0B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5DEC6EF5-CF12-4021-9D77-6F35D4F08466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DEC6EF5-CF12-4021-9D77-6F35D4F08466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DEC6EF5-CF12-4021-9D77-6F35D4F08466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7B7445-9E2A-4036-A3D1-F103C8E3D0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7B7445-9E2A-4036-A3D1-F103C8E3D0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7B7445-9E2A-4036-A3D1-F103C8E3D0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7B7445-9E2A-4036-A3D1-F103C8E3D0B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -16,6 +16,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
+using BackEndApiEF.repo;
 
 namespace BackEndApiEF
 {
@@ -31,6 +32,11 @@ namespace BackEndApiEF
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            #region Repositories
+            services.AddTransient(typeof(IGenericDataStore<>), typeof(GenericRepo<>));
+            services.AddTransient<IBillingRepo, BillingRepo>();
+            
+            #endregion
             services.AddControllers()
                  .AddNewtonsoftJson(options =>options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddDbContext<ProjectDbContext>(options =>
